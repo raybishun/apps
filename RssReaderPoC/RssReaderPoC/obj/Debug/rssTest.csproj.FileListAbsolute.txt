@@ -1,0 +1,23 @@
+C:\Users\ray\source\repos\rssTest\rssTest\bin\Debug\rssTest.exe.config
+C:\Users\ray\source\repos\rssTest\rssTest\bin\Debug\rssTest.exe
+C:\Users\ray\source\repos\rssTest\rssTest\bin\Debug\rssTest.pdb
+C:\Users\ray\source\repos\rssTest\rssTest\obj\Debug\rssTest.csprojAssemblyReference.cache
+C:\Users\ray\source\repos\rssTest\rssTest\obj\Debug\rssTest.Form1.resources
+C:\Users\ray\source\repos\rssTest\rssTest\obj\Debug\rssTest.Properties.Resources.resources
+C:\Users\ray\source\repos\rssTest\rssTest\obj\Debug\rssTest.csproj.GenerateResource.cache
+C:\Users\ray\source\repos\rssTest\rssTest\obj\Debug\rssTest.csproj.CoreCompileInputs.cache
+C:\Users\ray\source\repos\rssTest\rssTest\obj\Debug\rssTest.exe
+C:\Users\ray\source\repos\rssTest\rssTest\obj\Debug\rssTest.pdb
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\bin\Debug\rssTest.exe.config
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\bin\Debug\rssTest.exe
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\bin\Debug\rssTest.pdb
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.csprojAssemblyReference.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.Form1.resources
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.Properties.Resources.resources
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.csproj.GenerateResource.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.csproj.CoreCompileInputs.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.exe
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.pdb
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\MS\_Apps\rssTest\rssTest\obj\Debug\rssTest.csproj.CopyComplete

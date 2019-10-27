@@ -1,0 +1,12 @@
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\bin\Release\pocRssReader.exe.config
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\bin\Release\pocRssReader.exe
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\bin\Release\pocRssReader.pdb
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\bin\Release\Newtonsoft.Json.dll
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\bin\Release\Newtonsoft.Json.xml
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\obj\Release\pocRssReader.Properties.Resources.resources
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\obj\Release\pocRssReader.csproj.GenerateResource.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\obj\Release\pocRssReader.csproj.CoreCompileInputs.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\obj\Release\pocRssReader.csproj.CopyComplete
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\obj\Release\pocRssReader.exe
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\obj\Release\pocRssReader.pdb
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\IT\Git\apps\pocRssReader\pocRssReader\obj\Release\pocRssReader.RssReaderForm.resources

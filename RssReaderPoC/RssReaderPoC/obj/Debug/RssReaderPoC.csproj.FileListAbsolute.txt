@@ -1,0 +1,13 @@
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\bin\Debug\pocRssReader.exe.config
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\bin\Debug\pocRssReader.exe
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\bin\Debug\pocRssReader.pdb
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\RssReaderPoC.csprojAssemblyReference.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\pocRssReader.RssReaderForm.resources
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\pocRssReader.Properties.Resources.resources
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\RssReaderPoC.csproj.GenerateResource.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\RssReaderPoC.csproj.CoreCompileInputs.cache
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\RssReaderPoC.csproj.CopyComplete
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\pocRssReader.exe
+C:\Users\ray\OneDrive - Bits & Bytes Information Systems, LLC\Git\apps\RssReaderPoC\RssReaderPoC\obj\Debug\pocRssReader.pdb

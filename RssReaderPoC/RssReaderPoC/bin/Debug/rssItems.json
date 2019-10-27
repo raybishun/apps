@@ -1,0 +1,127 @@
+[
+  {
+    "PubDate": "Sun, 03 Nov 2019 06:00:00",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/tt2lmn8xq6f5"
+  },
+  {
+    "PubDate": "Sun, 03 Nov 2019 06:00:00",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/mjw957rbzhvc"
+  },
+  {
+    "PubDate": "Sun, 27 Oct 2019 06:00:00",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/96nvv5x3h0bc"
+  },
+  {
+    "PubDate": "Fri, 25 Oct 2019 14:07:21",
+    "Title": "Delays in audited events.",
+    "Link": "https://status.cloudappsecurity.com/incidents/8mz3p99br9c4"
+  },
+  {
+    "PubDate": "Wed, 23 Oct 2019 08:30:31",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/4zxzyy7pwh0z"
+  },
+  {
+    "PubDate": "Sun, 06 Oct 2019 11:43:51",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/tl7qkll0kq2q"
+  },
+  {
+    "PubDate": "Sun, 06 Oct 2019 11:43:01",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/337cybjn9rvz"
+  },
+  {
+    "PubDate": "Wed, 18 Sep 2019 16:20:20",
+    "Title": "Delay in alerts flow from MCAS",
+    "Link": "https://status.cloudappsecurity.com/incidents/v122zpd30tv9"
+  },
+  {
+    "PubDate": "Sun, 15 Sep 2019 22:54:59",
+    "Title": "Delay in audited events",
+    "Link": "https://status.cloudappsecurity.com/incidents/84rm861pc8z5"
+  },
+  {
+    "PubDate": "Sun, 15 Sep 2019 11:45:30",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/nnkw5pczj4w5"
+  },
+  {
+    "PubDate": "Sun, 01 Sep 2019 13:00:31",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/952b3chlphr8"
+  },
+  {
+    "PubDate": "Sat, 31 Aug 2019 10:52:05",
+    "Title": "Activity Log - delay in audited events",
+    "Link": "https://status.cloudappsecurity.com/incidents/vlj2x7jn2xsx"
+  },
+  {
+    "PubDate": "Mon, 26 Aug 2019 14:26:21",
+    "Title": "Activity Log - missing audited events",
+    "Link": "https://status.cloudappsecurity.com/incidents/wrl4g3dc53l5"
+  },
+  {
+    "PubDate": "Sun, 18 Aug 2019 13:00:29",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/d26c0ysg4c02"
+  },
+  {
+    "PubDate": "Tue, 06 Aug 2019 14:53:09",
+    "Title": "Conditional Access availability degradation",
+    "Link": "https://status.cloudappsecurity.com/incidents/g4xc9tm1p6fv"
+  },
+  {
+    "PubDate": "Sun, 04 Aug 2019 14:00:14",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/jhwcyy27x461"
+  },
+  {
+    "PubDate": "Tue, 23 Jul 2019 13:28:33",
+    "Title": "[US2] MCAS portal is unavailable",
+    "Link": "https://status.cloudappsecurity.com/incidents/243tppjsz27x"
+  },
+  {
+    "PubDate": "Mon, 22 Jul 2019 10:00:32",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/l6935c8r5nx6"
+  },
+  {
+    "PubDate": "Sun, 21 Jul 2019 13:00:01",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/08dw3ny51w02"
+  },
+  {
+    "PubDate": "Fri, 19 Jul 2019 07:19:20",
+    "Title": "Latency in Azure activities",
+    "Link": "https://status.cloudappsecurity.com/incidents/l4ztkpgc1kzk"
+  },
+  {
+    "PubDate": "Thu, 11 Jul 2019 19:31:31",
+    "Title": "Functionality in the Microsoft Teams native app is degraded when using Session controls",
+    "Link": "https://status.cloudappsecurity.com/incidents/55gcsr0mmkh3"
+  },
+  {
+    "PubDate": "Sun, 07 Jul 2019 14:00:04",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/8pstqkrwykrj"
+  },
+  {
+    "PubDate": "Tue, 02 Jul 2019 11:51:51",
+    "Title": "G Suite connector is temporary unavailable",
+    "Link": "https://status.cloudappsecurity.com/incidents/0y112z8ksbtn"
+  },
+  {
+    "PubDate": "Tue, 25 Jun 2019 20:29:47",
+    "Title": "Conditional Access is experiencing degraded performance in US1, US2, and EU1 data centers",
+    "Link": "https://status.cloudappsecurity.com/incidents/zd550whpbbml"
+  },
+  {
+    "PubDate": "Sun, 23 Jun 2019 12:00:40",
+    "Title": "Scheduled maintenance",
+    "Link": "https://status.cloudappsecurity.com/incidents/vf619nn0bmbk"
+  }
+]
