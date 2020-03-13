@@ -1,3 +1,309 @@
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.pdb
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\csc.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\csc.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\csc.rsp
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\csi.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\csi.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\csi.rsp
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Console.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\vbc.rsp
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Helpers.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Mvc.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Optimization.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Razor.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.WebPages.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\WebGrease.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Helpers.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Mvc.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Optimization.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.Razor.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.WebPages.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csprojAssemblyReference.cache
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CopyComplete
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch04\04_01\End\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.pdb
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.pdb
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.rsp
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.rsp
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Console.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.rsp
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Helpers.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Mvc.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Optimization.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Razor.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\WebGrease.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Helpers.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Mvc.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Optimization.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Razor.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csprojAssemblyReference.cache
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CopyComplete
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.dll
+C:\Users\Jonathan Tower\Desktop\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.pdb
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll.config
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.pdb
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.exe
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.exe.config
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.rsp
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.exe
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.exe.config
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.rsp
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Icon
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Console.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.rsp
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Helpers.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Mvc.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Optimization.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Razor.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\WebGrease.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Helpers.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Mvc.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Optimization.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Razor.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csprojAssemblyReference.cache
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CopyComplete
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.dll
+C:\Users\producer\Desktop\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.pdb
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll.config
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\HPlus.Ecommerce.pdb
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.exe
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.exe.config
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csc.rsp
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.exe
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.exe.config
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\csi.rsp
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Icon∩Çì
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.AppContext.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Console.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Compression.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.IO.Pipes.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Claims.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.ValueTuple.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.exe.config
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\vbc.rsp
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Helpers.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Mvc.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Optimization.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Razor.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\WebGrease.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Helpers.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Mvc.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Optimization.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.Razor.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Newtonsoft.Json.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Antlr3.Runtime.pdb
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csprojAssemblyReference.cache
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CoreCompileInputs.cache
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CopyComplete
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.dll
+C:\_apps\Ex_Files_ASP_NET_MVC_5_EssT\Ex_Files_ASP_NET_MVC_5_EssT\Exercise Files\Ch03\03_02\Begin\Code\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.pdb
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll.config
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\HPlus.Ecommerce.dll
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\HPlus.Ecommerce.pdb
@@ -7,6 +313,7 @@ C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\csc.rsp
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\csi.exe
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\csi.exe.config
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\csi.rsp
+C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\Icon∩Çì
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
@@ -69,7 +376,6 @@ C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\System.Web.WebPages.R
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\Newtonsoft.Json.xml
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\Antlr3.Runtime.pdb
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csprojAssemblyReference.cache
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CoreCompileInputs.cache
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.csproj.CopyComplete
 C:\git\apps\it\windows\HPlus.Ecommerce\HPlus.Ecommerce\obj\Debug\HPlus.Ecommerce.dll
