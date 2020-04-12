@@ -4,13 +4,17 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using UnitTestProject.Helpers;
 using System.Text.RegularExpressions;
+using System.Collections.Generic;
+using UnitTestProject.Models.JsonModel;
+using Newtonsoft.Json;
 
 namespace UnitTestProject
 {
     [TestClass]
     public class UnitTest
     {
-        private readonly string[] creds = SecureStore.GetCreds().Split(',');
+        #region Fields & Properties
+        private readonly string[] creds = SecureStoreHeler.GetCreds().Split(',');
 
         private string accessToken = string.Empty;
         public string AccessToken
@@ -48,8 +52,9 @@ namespace UnitTestProject
                 }
             }
         }
+        #endregion
 
-        public string TestGetQuoteAsJson(string symbol)
+        public string GetQuoteAsString(string symbol)
         {
             Assert.AreEqual(2, creds.Length);
             AccessToken = creds[0];
@@ -73,10 +78,48 @@ namespace UnitTestProject
             }
         }
 
-        [TestMethod]
-        public void TestGetQuote()
+        public QuoteRootObject GetQuoteAsJson(string symbol)
         {
-            Console.WriteLine(TestGetQuoteAsJson("msft"));
+            Assert.AreEqual(2, creds.Length);
+            AccessToken = creds[0];
+            Uri = creds[1];
+
+            using (HttpClient httpClient = new HttpClient())
+            {
+                httpClient.DefaultRequestHeaders.Add("Accept", "application/json");
+                httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {AccessToken}");
+
+                Task<HttpResponseMessage> httpResponseMessage = httpClient.GetAsync($"{Uri}{symbol}");
+
+                Assert.AreEqual(200, (int)httpResponseMessage.Result.StatusCode);
+
+                if (httpResponseMessage.Result.IsSuccessStatusCode)
+                {
+                    string str = httpResponseMessage.Result.Content.ReadAsStringAsync().Result;
+
+                    // QuoteRootObject quoteRootObject = JsonConvert.DeserializeObject<QuoteRootObject>(str);
+                    QuoteRootObject quoteRootObject = ResponseDataHelper.DeserializeStringToJson<QuoteRootObject>(str);
+                    return quoteRootObject;
+                }
+
+                return new QuoteRootObject();
+            }
+        }
+
+        // ====================================================================
+        // Client
+        // ====================================================================
+        [TestMethod]
+        public void TestGetQuoteAsString()
+        {
+            Console.WriteLine(GetQuoteAsString("msft"));
+        }
+
+        [TestMethod]
+        public void TestGetQuoteAsJson()
+        {
+            var msft = GetQuoteAsJson("spy");
+            Console.WriteLine($"{msft.Quotes.Quote.Symbol}\n{msft.Quotes.Quote.Last}");
         }
     }
 }

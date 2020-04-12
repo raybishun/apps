@@ -3,7 +3,7 @@ using System.IO;
 
 namespace UnitTestProject.Helpers
 {
-    class SecureStore
+    class SecureStoreHeler
     {
         private static readonly string creds = @"C:\SecureStore\token_endpoint.txt";
 
