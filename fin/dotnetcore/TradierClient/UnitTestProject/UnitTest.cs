@@ -106,6 +106,26 @@ namespace UnitTestProject
             }
         }
 
+        public async Task<QuoteRootObject> GetQuoteAsJsonAsync(string symbol)
+        {
+            using (HttpClient httpClient = new HttpClient())
+            {
+                httpClient.DefaultRequestHeaders.Add("Accept", "application/json");
+                httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {AccessToken}");
+
+                HttpResponseMessage httpResponseMessage = await httpClient.GetAsync($"{Uri}{symbol}");
+
+                if (httpResponseMessage.IsSuccessStatusCode)
+                {
+                    string str = await httpResponseMessage.Content.ReadAsStringAsync();
+                    QuoteRootObject quoteRootObject = ResponseDataHelper.DeserializeStringToJson<QuoteRootObject>(str);
+                    return quoteRootObject;
+                }
+
+                return new QuoteRootObject();
+            }
+        }
+
         // ====================================================================
         // Client
         // ====================================================================
@@ -120,6 +140,13 @@ namespace UnitTestProject
         {
             var msft = GetQuoteAsJson("spy");
             Console.WriteLine($"{msft.Quotes.Quote.Symbol}\n{msft.Quotes.Quote.Last}");
+        }
+
+        [TestMethod]
+        public void TestGetQuoteAsJsonAsync()
+        {
+            var msft = GetQuoteAsJsonAsync("spy");
+            Console.WriteLine($"{msft.Result.Quotes.Quote.Symbol}\n{msft.Result.Quotes.Quote.Last}");
         }
     }
 }
