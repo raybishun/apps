@@ -52,73 +52,50 @@ namespace UnitTestProject
                 }
             }
         }
+
+        // NOTE: Not using HttpClient within a Using block, so as to
+        // avoid instantiating a new instance for subsequent requests,
+        // as this can lead to socket exhaustion per the 'Improper Instantiation Anti-Pattern' described:
+        // https://docs.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/
+
+        private readonly HttpClient httpClient = new HttpClient();
+        private HttpResponseMessage httpResponseMessage = new HttpResponseMessage();
         #endregion
 
-        public string GetQuoteAsString(string symbol)
+        public async Task<string> GetQuoteAsStringAsync(string queryString)
         {
             Assert.AreEqual(2, creds.Length);
             AccessToken = creds[0];
             Uri = creds[1];
 
-            using (HttpClient httpClient = new HttpClient())
+            httpClient.DefaultRequestHeaders.Add("Accept", "application/json");
+            httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {AccessToken}");
+
+            using (httpResponseMessage = await httpClient.GetAsync($"{Uri}{queryString}"))
             {
-                httpClient.DefaultRequestHeaders.Add("Accept", "application/json");
-                httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {AccessToken}");
+                string content = await httpResponseMessage.Content.ReadAsStringAsync();
 
-                Task<HttpResponseMessage> httpResponseMessage = httpClient.GetAsync($"{Uri}{symbol}");
-
-                Assert.AreEqual(200, (int)httpResponseMessage.Result.StatusCode);
-
-                if (httpResponseMessage.Result.IsSuccessStatusCode)
-                {
-                    return httpResponseMessage.Result.Content.ReadAsStringAsync().Result;
-                }
-
-                return httpResponseMessage.Result.ReasonPhrase;
+                return content;
             }
         }
-
-        public QuoteRootObject GetQuoteAsJson(string symbol)
+        
+        public async Task<QuoteRootObject> GetQuoteAsJsonAsync(string queryString)
         {
             Assert.AreEqual(2, creds.Length);
             AccessToken = creds[0];
             Uri = creds[1];
 
-            using (HttpClient httpClient = new HttpClient())
+            httpClient.DefaultRequestHeaders.Add("Accept", "application/json");
+            httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {AccessToken}");
+
+            using (httpResponseMessage = await httpClient.GetAsync($"{Uri}{queryString}"))
             {
-                httpClient.DefaultRequestHeaders.Add("Accept", "application/json");
-                httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {AccessToken}");
-
-                Task<HttpResponseMessage> httpResponseMessage = httpClient.GetAsync($"{Uri}{symbol}");
-
-                Assert.AreEqual(200, (int)httpResponseMessage.Result.StatusCode);
-
-                if (httpResponseMessage.Result.IsSuccessStatusCode)
-                {
-                    string str = httpResponseMessage.Result.Content.ReadAsStringAsync().Result;
-
-                    // QuoteRootObject quoteRootObject = JsonConvert.DeserializeObject<QuoteRootObject>(str);
-                    QuoteRootObject quoteRootObject = ResponseDataHelper.DeserializeStringToJson<QuoteRootObject>(str);
-                    return quoteRootObject;
-                }
-
-                return new QuoteRootObject();
-            }
-        }
-
-        public async Task<QuoteRootObject> GetQuoteAsJsonAsync(string symbol)
-        {
-            using (HttpClient httpClient = new HttpClient())
-            {
-                httpClient.DefaultRequestHeaders.Add("Accept", "application/json");
-                httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {AccessToken}");
-
-                HttpResponseMessage httpResponseMessage = await httpClient.GetAsync($"{Uri}{symbol}");
+                string content = await httpResponseMessage.Content.ReadAsStringAsync();
 
                 if (httpResponseMessage.IsSuccessStatusCode)
                 {
-                    string str = await httpResponseMessage.Content.ReadAsStringAsync();
-                    QuoteRootObject quoteRootObject = ResponseDataHelper.DeserializeStringToJson<QuoteRootObject>(str);
+                    // QuoteRootObject quoteRootObject = JsonConvert.DeserializeObject<QuoteRootObject>(content);
+                    QuoteRootObject quoteRootObject = ResponseDataHelper.DeserializeStringToJson<QuoteRootObject>(content);
                     return quoteRootObject;
                 }
 
@@ -126,27 +103,28 @@ namespace UnitTestProject
             }
         }
 
-        // ====================================================================
-        // Client
-        // ====================================================================
+        // Clients
         [TestMethod]
         public void TestGetQuoteAsString()
         {
-            Console.WriteLine(GetQuoteAsString("msft"));
+            Console.WriteLine(GetQuoteAsStringAsync("msft").Result);
         }
 
         [TestMethod]
         public void TestGetQuoteAsJson()
         {
-            var msft = GetQuoteAsJson("spy");
-            Console.WriteLine($"{msft.Quotes.Quote.Symbol}\n{msft.Quotes.Quote.Last}");
+            //var msft = GetQuoteAsJsonAsync("msft");
+            //Console.WriteLine(msft.Result.Quotes.Quote.Description);
+
+            var msft = GetQuoteAsJsonAsync("msft").Result;
+            Console.WriteLine(msft.Quotes.Quote.Description);
         }
 
-        [TestMethod]
-        public void TestGetQuoteAsJsonAsync()
-        {
-            var msft = GetQuoteAsJsonAsync("spy");
-            Console.WriteLine($"{msft.Result.Quotes.Quote.Symbol}\n{msft.Result.Quotes.Quote.Last}");
-        }
+        //[TestMethod]
+        //public async void TestGetQuoteAsJsonAsync()
+        //{
+        //    var msft = await GetQuoteAsJsonAsync("msft");
+        //    Console.WriteLine(msft.Quotes.Quote.Description);
+        //}
     }
 }
