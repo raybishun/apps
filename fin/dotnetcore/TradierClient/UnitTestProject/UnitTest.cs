@@ -53,9 +53,9 @@ namespace UnitTestProject
             }
         }
 
-        // NOTE: Not using HttpClient within a Using block, so as to
-        // avoid instantiating a new instance for subsequent requests,
-        // as this can lead to socket exhaustion per the 'Improper Instantiation Anti-Pattern' described:
+        // NOTE: Not using HttpClient within a Using statement, so as to
+        // avoid instantiating a new HttpClient for subsequent requests,
+        // as this can lead to socket exhaustion per 'Improper Instantiation AntiPattern' described:
         // https://docs.microsoft.com/en-us/azure/architecture/antipatterns/improper-instantiation/
 
         private readonly HttpClient httpClient = new HttpClient();
@@ -119,6 +119,8 @@ namespace UnitTestProject
             var msft = GetQuoteAsJsonAsync("msft").Result;
             Console.WriteLine(msft.Quotes.Quote.Description);
         }
+        
+        // TODO: Fix call from async method
 
         //[TestMethod]
         //public async void TestGetQuoteAsJsonAsync()
