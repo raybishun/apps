@@ -1,0 +1,118 @@
+﻿@model Dividends.Models.Dividend
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+@using (Html.BeginForm("Details", "Dividends", FormMethod.Get))
+{
+    <div>
+        @Html.Label("symbol", "Symbol")
+    </div>
+    <div>
+        @Html.TextBox("symbol")
+        <input type="submit" value="Submit">
+    </div>
+}
+
+
+<div>
+    <h4>Dividend</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Symbol)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Symbol)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sector)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sector)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MarketCap)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MarketCap)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Beta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Beta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DividendYield)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DividendYield)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PERatio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PERatio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Score)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Score)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DividendGrowthStreak)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DividendGrowthStreak)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UninterruptedDividendStreak)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UninterruptedDividendStreak)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PaymentFrequency)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PaymentFrequency)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |*@
+    @Html.ActionLink("Back to List", "Index")
+</p>
