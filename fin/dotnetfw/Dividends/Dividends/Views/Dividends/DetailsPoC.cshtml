@@ -6,6 +6,17 @@
 
 <h2>Details</h2>
 
+@using (Html.BeginForm("Details", "Dividends", FormMethod.Get))
+{
+    <div>
+        @Html.Label("symbol", "Symbol")
+    </div>
+    <div>
+        @Html.TextBox("symbol")
+        <input type="submit" value="Submit">
+    </div>
+}
+
 <div>
     <h4>Dividend</h4>
     <hr />

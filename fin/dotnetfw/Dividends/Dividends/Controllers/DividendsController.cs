@@ -19,46 +19,46 @@ namespace Dividends.Controllers
         {
             return View(db.Dividends.ToList());
         }
-        
+
         // GET: Dividends/Details/5
-        //public ActionResult Details(int? id)
-        //{
-        //    if (id == null)
-        //    {
-        //        return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-        //    }
-        //    Dividend dividend = db.Dividends.Find(id);
-        //    if (dividend == null)
-        //    {
-        //        return HttpNotFound();
-        //    }
-        //    return View(dividend);
-        //}
-
-        public ActionResult Details(string symbol)
+        public ActionResult Details(int? id)
         {
-            using (var db = new DividendContext())
+            if (id == null)
             {
-                var result = (from s in db.Dividends
-                               where s.Symbol == symbol.Trim()
-                               orderby s.Score descending
-                               select s).FirstOrDefault();
-
-                // var results = db.Dividends.Where(s => s.Symbol == symbol.Trim()).FirstOrDefault();
-
-                //if (result == null)
-                //{
-                //    return View(new Dividend() { Symbol = $"[{symbol}] not found."});
-                //}
-
-                return View(result);
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
+            Dividend dividend = db.Dividends.Find(id);
+            if (dividend == null)
+            {
+                return HttpNotFound();
+            }
+            return View(dividend);
         }
 
-        public ActionResult List(string symbol)
+        //public ActionResult Details(string symbol)
+        //{
+        //    using (var db = new DividendContext())
+        //    {
+        //        var result = (from s in db.Dividends
+        //                       where s.Symbol == symbol.Trim()
+        //                       orderby s.Score descending
+        //                       select s).FirstOrDefault();
+
+        //        // var results = db.Dividends.Where(s => s.Symbol == symbol.Trim()).FirstOrDefault();
+
+        //        //if (result == null)
+        //        //{
+        //        //    return View(new Dividend() { Symbol = $"[{symbol}] not found."});
+        //        //}
+
+        //        return View(result);
+        //    }
+        //}
+
+        public ActionResult List(string name)
         {
             var result = from s in db.Dividends
-                         where s.Symbol == symbol.Trim()
+                         where s.Name.Contains(name.Trim())
                          orderby s.Score descending
                          select s;
 
