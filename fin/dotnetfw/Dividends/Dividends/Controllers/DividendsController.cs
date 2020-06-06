@@ -65,7 +65,17 @@ namespace Dividends.Controllers
             return View(result.ToList());
         }
 
+        public ActionResult Search(int score = 100, int streak = 0)
+        {
+            var result = from s in db.Dividends
+                         where 
+                            s.Score >= score
+                            && s.UninterruptedDividendStreak >= streak
+                         orderby s.Name ascending
+                         select s;
 
+            return View(result.ToList());
+        }
 
 
         // GET: Dividends/Create

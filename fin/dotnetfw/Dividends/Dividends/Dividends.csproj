@@ -214,6 +214,7 @@
     <Content Include="Views\Dividends\Index.cshtml" />
     <Content Include="Views\Dividends\DetailsPoC.cshtml" />
     <Content Include="Views\Dividends\List.cshtml" />
+    <Content Include="Views\Dividends\Search.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
