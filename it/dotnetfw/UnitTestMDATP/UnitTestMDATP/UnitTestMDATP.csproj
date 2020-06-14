@@ -56,8 +56,14 @@
     <Reference Include="System.Web" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DropBoxModel\Entry.cs" />
+    <Compile Include="DropBoxModel\Field.cs" />
+    <Compile Include="DropBoxModel\PropertyGroup.cs" />
+    <Compile Include="DropBoxModel\SharingInfo.cs" />
     <Compile Include="MDATPPoCUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DropBoxModel\RootObject.cs" />
+    <Compile Include="SecureStoreHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
