@@ -11,15 +11,30 @@ namespace UnitTestMDATP
         [TestMethod]
         public void TestMethodHelloWorld()
         {
-            // Use a hosted REST-API to test requests at: https://reqres.in/
-            IRestClient client = new RestClient("https://reqres.in/");
-            IRestRequest request = new RestRequest("/api/users/2", DataFormat.Json);
+            // Used a demo REST-API to test requests at: https://reqres.in/
+
+            string baseUrl = "https://reqres.in/";
+            string resource = "/api/users/2";
+
+            IRestClient client = new RestClient(baseUrl);
+            IRestRequest request = new RestRequest(resource, DataFormat.Json);
             IRestResponse response = client.Get(request);
             Console.WriteLine(response.Content);
         }
 
         [TestMethod]
-        public void TestMethodDropBox()
+        public void TestMethodMDATPGetAlerts()
+        {
+            string tenantId = "";
+            string appId = "";
+            string appSecret = "";
+
+            string resourceAppIdUri = "https://api.securitycenter.windows.com";
+            string oAuthUri = $"https://login.windows.net/{tenantId}/oauth2/token";
+        }
+
+        [TestMethod]
+        public void TestMethodDropBoxListFolder()
         {
             string listFolderUrl = "https://api.dropboxapi.com/2/files/list_folder";
 
