@@ -29,16 +29,16 @@ namespace DotNetCore31MSTestUnitTest
         }
 
         [TestMethod]
-        public void AssertFromTheAAAPattern()
+        public void AAAPattern()
         {
             // Arrange
-            // ...
+            // ... already done per above fields
 
             // Act
-            // ...
-            
+            var result = _response.StatusCode.ToString();
+
             // Assert
-            Assert.AreEqual("OK", _response.StatusCode.ToString());
+            Assert.AreEqual("OK", result);
         }
 
         [TestMethod]
