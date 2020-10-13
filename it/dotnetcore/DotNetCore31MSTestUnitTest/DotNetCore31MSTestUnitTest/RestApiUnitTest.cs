@@ -1,7 +1,9 @@
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RestSharp;
+using DotNetCore31MSTestUnitTest.Models;
 
 namespace DotNetCore31MSTestUnitTest
 {
@@ -44,6 +46,17 @@ namespace DotNetCore31MSTestUnitTest
         {
             IRestResponse response = await _client.ExecuteAsync(_request);
             Console.WriteLine(response.Content);
+        }
+
+        [TestMethod]
+        public async Task DeserializeJsonPayload()
+        {
+            IRestResponse<List<TestDataRootObject>> response = await _client.ExecuteAsync<List<TestDataRootObject>>(_request);
+
+            foreach (var item in response.Data)
+            {
+                Console.WriteLine(item.Data.Email);
+            }
         }
     }
 }
