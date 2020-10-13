@@ -13,22 +13,6 @@ namespace UnitTestMDATP
     [TestClass]
     public class MDATPUnitTest
     {
-        [TestMethod]
-        public void TestMethodHelloWorld()
-        {
-            // Reference:
-            // Demo REST-API to test requests at: https://reqres.in/
-
-            string baseUrl = "https://reqres.in/";
-            string resource = "/api/users/2";
-
-            IRestClient client = new RestClient(baseUrl);
-            IRestRequest request = new RestRequest(resource, DataFormat.Json);
-            IRestResponse response = client.Get(request);
-
-            Console.WriteLine(response.Content);
-        }
-
         string tenantId     = string.Empty;
         string appId        = string.Empty;
         string appSecret    = string.Empty;
