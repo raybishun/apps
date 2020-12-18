@@ -7,11 +7,11 @@ namespace BitLockerUtility48
     {
         static void Main(string[] args)
         {
-            GetWinOSVer();
+            GetWinOSInfo();
             Console.ReadKey();
         }
 
-        static void GetWinOSVer()
+        static void GetWinOSInfo()
         {
             try
             {
